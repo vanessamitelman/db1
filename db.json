@@ -75,10 +75,10 @@
       "id": 1,
       "title": "Web Developer",
       "text1": "Hello! I am <strong>Vanessa</strong>",
-      "text2": "",
+      "text2": "<p>I have been a Frontend Developer for over 8 years now and have decided to expand my horizons and study how to be a professional Full Stack Web Developer</p><p>I am currently a Full Stack Web Developer student at the &copy;Asis Capital Center</p>",
       "image": "image",
       "link": "https://limudey-hutz.co.il/",
-      "linkTitle": ""
+      "linkTitle": "Visit &copy;Asis Capital Center for more details"
     }
   ]
 }
